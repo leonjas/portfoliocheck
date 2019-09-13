@@ -1,0 +1,29 @@
+body{
+  background-image:url("http://www.clker.com/cliparts/f/J/H/b/q/5/united-nations-logo-white-background-hi.png");
+  background-repeat:no-repeat;
+  background-position:center;
+  background-size:cover;
+}
+h1{
+  text-align:center;
+  font-size:350%;
+  border-bottom:3px solid #5499C7;
+  margin-top:5px;
+  color:#154360;
+}
+
+.text1{
+  float:right;
+  margin-right:60px;
+  margin-top:50px;
+  padding:25px 25px 25px 25px;
+  width:50%;
+  font-size:110%;
+  border:5px solid #85C1E9;
+  border-style:outset;
+}
+
+.text2{
+  font-size:110%;
+  margin:40px 15px 15px 15px;
+}
